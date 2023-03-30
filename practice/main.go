@@ -18,7 +18,7 @@ func main() {
 	fmt.Println(bString)
 	fmt.Printf("The variable's type is %T\n", bString)
 
-	var anInteger int = 42
+	var anInteger int = 425
 	fmt.Println(anInteger)
 
 	var defaultInt int
